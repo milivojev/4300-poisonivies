@@ -1,0 +1,16 @@
+.normal-btn {
+	background-color: gray;
+	border-radius: 5px;
+	heght: 80px;
+	color: red;
+	padding: 40px;
+
+}
+
+.not-normal-btn {
+	background-color: green;
+	border-radius: 5px;
+	heght: 80px;
+	color: red;
+	padding: 40px;
+}
