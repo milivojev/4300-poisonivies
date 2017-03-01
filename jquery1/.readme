@@ -1,0 +1,13 @@
+1. create a new folder and a project, and import jquery from CDN
+https://cdnjs.com/libraries/jquery/
+
+2. make your own main.js and import that as well
+3. put css file as well
+4. make a jquery that will automatically set background color to grey and font to Verdana (do this from jQuery not css)
+5. create html with one h1, two paragraphs, another h1, two more paragraphs
+6. in one of the paragraphs make part od the text <strong></strong>
+7. select bolded text with jquery and going from there change the color of previous paragraph and font of second headline
+8. select first paragraph and starting from there select all other paragraphs and change their font size to 20px
+9. select only two second paragraphs in the block starting from headlines and chainge their background color
+10. make a class that will style the the bold letters (strong tag)
+11. use jquery to apply this class to <strong> tag
